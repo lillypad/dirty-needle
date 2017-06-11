@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1497151016 source:c:\documents and settings\cerberus\my documents\projects\inject\main.cpp
+	"main.h"
+	<windows.h>
+
+1446671344 c:\documents and settings\cerberus\my documents\projects\inject\main.h
+	<windows.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1497213023 source:c:\documents and settings\cerberus\my documents\projects\test_project\main.cpp
+	<iostream>
+	<windows.h>
+	<cstring>
+	<stdio.h>
+
+1497247935 source:c:\documents and settings\cerberus\my documents\projects\dirty-needle\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+
