@@ -3,7 +3,7 @@
 Dirty Needle is a simple tool made to inject DLLs on victim computers.
 
 # How to Use Dirty Needles #
-List Running Processes:
+Find a Process to Inject
 ```bash
 dirty-needle.exe --list --verbose
 ```
